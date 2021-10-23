@@ -1,0 +1,12 @@
+body{background-color: lightgreen;}
+.headers{background-color: lightskyblue;
+font-size: 20px}
+h1{background-color: lightyellow;
+opacity: 0.8;
+color: darkseagreen;}
+.introduction{
+  border-style: solid;
+  font-size: 20px;
+  border: 5px;
+  border-color: red yellow;
+  background-color: lightgoldenrodyellow;}
